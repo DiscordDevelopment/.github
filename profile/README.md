@@ -1,3 +1,11 @@
-# Test
+# Discord Development
 
-![Youtube-Banner-Groesse-azoora](https://user-images.githubusercontent.com/91831917/175774915-65013d2b-7fb5-4b0b-9ed0-1de76f20cd9d.png)
+![banner-dsc-dev](https://user-images.githubusercontent.com/91831917/175775690-43ffb0d7-26ff-45ff-b8e0-b0962a225960.png)
+
+
+#
+Discord Development ist eine Developer Gruppe, die sich auf Discord Bots spezifiziert hat, wir benutzen hauptsächlich Python für unsere Bots
+
+ * 
+ * 
+ * 
