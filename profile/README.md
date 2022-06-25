@@ -9,7 +9,7 @@ Discord Development ist eine Developer Gruppe, die sich auf Discord Bots spezifi
 
 
 # Geschichte und Hintergründe
-Der Discord Server existiert bereits seit 25/10/2021, 12:15:50, zu dem Zeitpunkt war die Idee von Discord Development mit anderem Namen und Logo bereits vorhanden, für den Übergang benutzte man "Unofficial Discord Support". Mit folgendem Logo:
+Der Discord Server existiert bereits seit dem 25.10. 2021 - 12:15:50, zu dem Zeitpunkt war die Idee von Discord Development mit anderem Namen und Logo bereits vorhanden, für den Übergang benutzte man "Unofficial Discord Support". Mit folgendem Logo:
 
 ![altes-logo](https://cdn.discordapp.com/icons/902168576541200394/a_0a53152e50bd9cbe49c9fb9283dbedef.gif?width=250&height=250)
 
