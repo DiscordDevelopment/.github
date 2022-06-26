@@ -1,6 +1,6 @@
 # Discord Development
 
-![banner-dsc-dev white](https://user-images.githubusercontent.com/91831917/175806361-cf614d95-5c39-4f15-ac07-a1c99f568cad.png)
+![banner-dsc-dev white (1)](https://user-images.githubusercontent.com/91831917/175806430-956ed0f1-4b32-4495-8847-0557086c1727.png)
 
 
 
