@@ -22,6 +22,8 @@ Das warscheinlich größte Projekt, das wir je in die Finger genommen haben, ist
 
 Das erste wichtige Ziel für Discord Development wird sein, die Version 1.0 von ihm heraus zu bringen.
 
+
+
 Emil am 09.05.23:
 
 Discord Development ist tod, doch wir machen weiter, das letzte Gespräch im allgemein Chat ist schon Monate her.
