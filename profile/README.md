@@ -31,3 +31,15 @@ Discord Development ist tod, doch wir machen weiter, das letzte Gespräch im all
 Zum Team gibt es nicht viel zu sagen, ich weiß nicht mal mehr von welchem Daniel ich da geredet habe, Loui, ein RL Freund kümmert sich um das Hosting, und Toni ist natürlich der Zugfreund und Signalhelfer.
 
 Ditte wars.
+
+
+
+Emil am 20.08.23:
+
+Loui ist nun auch Teil des Teams, geplant ist, dass er sich um die Verwaltung des Servers kümmert.
+
+Geplant ist aus langer Weile ein Minecraft Server, der ausschließlich Plots nutzt, ohne ein Anticheat, etc. Es soll alle 10 Minuten ein Backup gemacht werden.
+
+Der Discord braucht unbedingt ein Update.
+
+Zu all dem kommt es nicht, weil Emil und Loui auf größeren Servern im Team mehr aktiv sind, außerdem ist Emil Valorant süchtig, und Toni Train Simulator süchtig.
