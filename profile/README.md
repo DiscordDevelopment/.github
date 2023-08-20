@@ -42,4 +42,4 @@ Geplant ist aus langer Weile ein Minecraft Server, der ausschließlich Plots nut
 
 Der Discord braucht unbedingt ein Update.
 
-Zu all dem kommt es nicht, weil Emil und Loui auf größeren Servern im Team mehr aktiv sind, außerdem ist Emil Valorant süchtig, und Toni Train Simulator süchtig.
+Zu all dem kommt es nicht, weil Emil und Loui auf größeren Servern im Team mehr aktiv sind, außerdem ist Emil Valorant süchtig.
